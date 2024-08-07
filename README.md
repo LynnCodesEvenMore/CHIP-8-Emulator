@@ -6,8 +6,11 @@ However it deserves the name emulator because it includes so much more: not only
 
 Why this project?
 1.) I have a passion for emulators ever since I was little, for example playing on old gaming consoles or modifying my Nintendo DS with the help of friends to run a NES emulator.
+
 2.) Everyone should write an emulator because it teaches you how a computer works: CPU cycles, keyboard input, graphics output, ...
+
 3.) Show off! Play a game on your emulator and show it to people! Makes you feel proud! :)
+
 4.) Use it in a motivation letter if you need to write one!
 
 
